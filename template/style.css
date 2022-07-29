@@ -1,0 +1,18 @@
+.bg-custom{
+    background-color: #e0e0e0;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+figure{
+    height: auto;
+    overflow: hidden;
+}
+
+img{
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
