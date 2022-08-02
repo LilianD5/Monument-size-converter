@@ -98,7 +98,7 @@ require './functions/functions.php';
         ?>
     </section>
 
-    <p class="position-absolute bottom-0 start-50 translate-middle">Developped by Lilian Diaz - 2022 - Using PHP/Bootstrap/MySQL</p>
+    <p class="position-absolute start-50 translate-middle pt-5">Developped by Lilian DIAZ - 2022 - Using <a href="https://www.php.net/" target="_blank">PHP</a> | <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a> | <a href="https://github.com/LilianD5" target="_blank">GitHub</a></p>
 </body>
 
 </html>
